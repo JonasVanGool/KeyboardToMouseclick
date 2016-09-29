@@ -1,0 +1,9 @@
+c:\users\2425\documents\visual studio 2013\Projects\KeyboardToMouseClick\KeyboardToMouseClick\bin\Debug\KeyboardToMouseClick.exe.config
+c:\users\2425\documents\visual studio 2013\Projects\KeyboardToMouseClick\KeyboardToMouseClick\bin\Debug\KeyboardToMouseClick.exe
+c:\users\2425\documents\visual studio 2013\Projects\KeyboardToMouseClick\KeyboardToMouseClick\bin\Debug\KeyboardToMouseClick.pdb
+c:\users\2425\documents\visual studio 2013\Projects\KeyboardToMouseClick\KeyboardToMouseClick\obj\Debug\KeyboardToMouseClick.csprojResolveAssemblyReference.cache
+c:\users\2425\documents\visual studio 2013\Projects\KeyboardToMouseClick\KeyboardToMouseClick\obj\Debug\KeyboardToMouseClick.Properties.Resources.resources
+c:\users\2425\documents\visual studio 2013\Projects\KeyboardToMouseClick\KeyboardToMouseClick\obj\Debug\KeyboardToMouseClick.csproj.GenerateResource.Cache
+c:\users\2425\documents\visual studio 2013\Projects\KeyboardToMouseClick\KeyboardToMouseClick\obj\Debug\KeyboardToMouseClick.exe
+c:\users\2425\documents\visual studio 2013\Projects\KeyboardToMouseClick\KeyboardToMouseClick\obj\Debug\KeyboardToMouseClick.pdb
+C:\Users\2425\documents\visual studio 2013\Projects\KeyboardToMouseClick\KeyboardToMouseClick\obj\Debug\KeyboardToMouseClick.KeyboardToMouseclickForm.resources
